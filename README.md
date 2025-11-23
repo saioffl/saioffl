@@ -16,20 +16,6 @@
 but im strong in C !!!
 <h3 align="left">Ongoing Projects:</h3>
 
-🔹 [Dog Detection System](https://github.com/yourusername/dog-detection-system)
-> A smart surveillance system that detects dog entry in apartments and sends alerts to residents.
-> 
-🔹 [Live School Bus Tracker](https://github.com/yourusername/bus-tracker)
-> Real-time bus tracking app for student safety using GPS and Firebase.
-> 
-🔹 [Restaurant Recommendation System](https://github.com/yourusername/restaurant-recommender)
-> ML-based recommendation engine to suggest the best dining places based on user preferences.
-
-🔹 [Collaborative Task Manager](https://github.com/yourusername/firebase-task-manager)
-> A Firebase-powered web app that allows multiple users to manage and share tasks live.
-
----
-
 </p>
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saioffl&show_icons=true&locale=en" alt="saioffl" /></p>
