@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saioffl&label=Profile%20views&color=0e75b6&style=flat" alt="saioffl" /> </p>
 <p align="left">
-<h2>👯 Heylooo , I'm SAI <3 </h3>
+<h2>He✌ Hylooo , I'm SAI <3 </h3>
 ---
  basically a person who loves to crave the logic behind every single problem even thou  could'nt catch it up with  ease , BUT I DONT GIVE UPPPPPPPPP !!!
 
-- + Focused on  AI/ML, DSA and real-time apps  
-- + Currently working on: [BATS]  & tryna crack dsa stuffs 
+- + Focused on FrontEnd Development with DSA !
+- + Currently working on: [Portfolio (saioffl.in)] .
 - + Always Cravin to learn new stuffs !
 
 ---
