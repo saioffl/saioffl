@@ -18,9 +18,9 @@
 </p>
 
 <ul>
-  <li>Focused on Frontend Development and Data Structures & Algorithms</li>
+  <li>Focused on Full Stack Development and Data Structures & Algorithms</li>
   <li>Currently building a personal portfolio:
-    <a href="https://saioffl.in" target="_blank">saioffl.in</a>
+    <a href="https://saioffl.github.io/updated-PP/" target="_blank">saioffl.in</a>
   </li>
   <li>Continuously learning and strengthening core computer science concepts</li>
 </ul>
