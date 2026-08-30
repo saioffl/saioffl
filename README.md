@@ -38,7 +38,7 @@
 </ul>
 
 <p>
-  <strong>Primary Strength:</strong> C Programming
+  <strong>Primary Strength:</strong> Python Programming
 </p>
 
 
