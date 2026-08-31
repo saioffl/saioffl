@@ -1,44 +1,26 @@
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=saioffl&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="saioffl profile views" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=saioffl&label=Profile%20views&color=0e75b6&style=flat" alt="saioffl profile views" />
 </p>
 
-<h2 align="left">
-  <span style="color:#0969DA;">Hi, I'm SAI</span>
-</h2>
-
-<hr>
+<h1 align="left">Hey, I'm Sai</h1>
 
 <p>
-  I am a motivated learner who values understanding the logic behind every problem.
-  While some concepts take time to grasp, I approach challenges with persistence
-  and a strong commitment to continuous improvement.
+  Python-brained dev who's low-key obsessed with figuring out <em>why</em> something works,
+  not just copy-pasting till it does. Always leveling up — one bug, one concept, one late night at a time.
 </p>
 
-<ul>
-  <li>Focused on Full Stack Development and Data Structures & Algorithms</li>
-  <li>Currently building a personal portfolio:
-    <a href="https://saioffl.github.io/updated-PP/" target="_blank">saioffl.in</a>
-  </li>
-  <li>Continuously learning and strengthening core computer science concepts</li>
-</ul>
+- Primary strength: **Python** — it's basically my comfort language
+- Currently sharpening **Full-Stack Development** & **DSA**
+- Learning something new every single day, on purpose
+- Building, breaking, fixing, repeat
+- Portfolio: [portfolio-sai-three.vercel.app](https://portfolio-sai-three.vercel.app)
+- Reach me: internoffl@gmail.com
+- Fun fact: I debug better with music on
 
-<hr>
+<br>
 
-<h3 align="left">
-  <span style="color:#0969DA;">Technical Skills</span>
-</h3>
-
-<ul>
-  <li><strong>Programming Languages:</strong> C, Python, JavaScript</li>
-  <li><strong>Web Technologies:</strong> HTML5, CSS3, React</li>
-  <li><strong>Core Focus:</strong> Data Structures and Algorithms</li>
-</ul>
-
-<p>
-  <strong>Primary Strength:</strong> Python Programming
-</p>
+<br>
 
 
+
+<p align="left">Thanks for stopping by — say hi anytime.</p>
